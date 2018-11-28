@@ -27,3 +27,9 @@ Eureka :Providesmicroservice Registration and Discovery interactions between ser
 mvn install
 
 java -jar target/stationery-service-1.0-SNAPSHOT.jar
+
+# Databases
+
+Mongod
+
+Mysql
